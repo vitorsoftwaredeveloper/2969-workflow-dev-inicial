@@ -12,7 +12,7 @@ module.exports = {
     "import/extensions": 0,
     "prefer-destructuring": 0,
     "no-underscore-dangle": 0,
-    camelcase: ["error", { allow: ["aa_bb"] }],
+    camelcase: "off",
   },
   overrides: [
     {
